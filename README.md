@@ -54,9 +54,9 @@ def keshav():
 <h1 align="center"> Connect with me! </h1>
 
 <p align="center">
-    <a href="https://github.com/Inaammm"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-    <a href="https://www.LinkedIn.com/in/inaammm"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-    <a href="https://www.instagram.com/innaaammm?igsh=djU2YmhkN3ZmZDJ6"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+   
+    <a href="https://www.linkedin.com/in/keshav28/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+    
 </p>
 
 <!-- <h1 align="center"> My Stats! </h1>
