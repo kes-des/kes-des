@@ -7,7 +7,7 @@
 
 ##  Software Engineer @Cisco | Certified Full Stack Java Developer | Passionate about Development & Product Analytics 🚀
 
-- 🌱 I’m currently learning Generative AI & Product Analytics 🤓  
+- 🌱- 🌱 I’m currently exploring **Generative AI, Product Analytics, and deepening my skills in Splunk & Observability** to build smarter, reliable systems 🤓  
 - 👯 Contact : [jhakeshav878@gmail.com](mailto:jhakeshav878@gmail.com)  
 - 🥅 2025–2026 Goals: Enhance at Cisco & grow towards **Product Analyst** role  
 - ⚡ Fun fact: 🍳 I pretend to be a good cook!  
@@ -54,10 +54,12 @@ def keshav():
 <h1 align="center"> Connect with me! </h1>
 
 <p align="center">
-   
-    <a href="https://www.linkedin.com/in/keshav28/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-    
+  <a href="https://www.linkedin.com/in/keshav28/" target="_blank">
+    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
 </p>
+
+  
 
 <!-- <h1 align="center"> My Stats! </h1>
 <div>
